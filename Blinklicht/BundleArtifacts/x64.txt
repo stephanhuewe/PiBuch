@@ -1,0 +1,2 @@
+MainPackage=C:\Users\sh\Source\Repos\pi4netdevelopers\BookProjects\Blinklicht\bin\x64\Debug\Blinklicht_1.0.4.0_x64_Debug.appx
+SymbolPackage=C:\Users\sh\Source\Repos\pi4netdevelopers\BookProjects\Blinklicht\AppPackages\Blinklicht_1.0.4.0_Debug_Test\Blinklicht_1.0.4.0_x64_Debug.appxsym
